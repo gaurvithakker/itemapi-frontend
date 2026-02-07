@@ -1,0 +1,8 @@
+# .gitignore
+# Ignore everything
+*
+
+# But keep these files
+!index.html
+!script.js
+!.gitignore
